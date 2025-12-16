@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ふたりの恋",
+  "base_artist": "Laughing Hick",
+  "createdAt": "2025-12-16T01:26:03.877336Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "真夜中のころ・ふたりの恋",
+      "artist": "Sunny Day Service",
+      "has_synced": false,
+      "path": "select/01_真夜中のころ・ふたりの恋_Sunny_Day_Service.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ふたりの恋",
+      "artist": "Laughing Hick",
+      "has_synced": false,
+      "path": "select/pl_01_ふたりの恋_Laughing_Hick.txt"
+    }
+  ]
+}
